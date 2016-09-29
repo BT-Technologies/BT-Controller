@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/barcode.png</file>
+        <file>images/block.png</file>
+        <file>images/BT-Control.png</file>
+        <file>images/business_user_comment.png</file>
+        <file>images/business_user_warning.png</file>
+        <file>images/calculator.png</file>
+        <file>images/chart_up.png</file>
+        <file>images/clock.png</file>
+        <file>images/coffee_cup.png</file>
+        <file>images/cut.png</file>
+        <file>images/down.png</file>
+        <file>images/edit_male_user.png</file>
+        <file>images/favorite_place.png</file>
+        <file>images/favorite.png</file>
+        <file>images/folder.png</file>
+        <file>images/front.png</file>
+        <file>images/heart.png</file>
+        <file>images/help.png</file>
+        <file>images/light_bulb.png</file>
+        <file>images/lock.png</file>
+        <file>images/members.png</file>
+        <file>images/next.png</file>
+        <file>images/note_accept.png</file>
+        <file>images/office_folders.png</file>
+        <file>images/orange_arrow_down.png</file>
+        <file>images/orange_arrow_up.png</file>
+        <file>images/package_accept.png</file>
+        <file>images/package_warning.png</file>
+    </qresource>
+</RCC>
