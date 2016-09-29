@@ -18,3 +18,5 @@ This project is under development of BT-Tech Developers Labs, the staff is integ
  - @padilla7 - main graphics designer.
  - @asr13l - General Developer 
  - 
+
+##this read.ME is under development, try later to get updates.
