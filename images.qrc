@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/barcode.png</file>
+        <file>images/BT-Control.png</file>
+        <file>images/coffee_cup.png</file>
+        <file>images/down.png</file>
+        <file>images/favorite_place.png</file>
+        <file>images/lock.png</file>
+        <file>images/members.png</file>
+        <file>images/pause.png</file>
+        <file>images/play.png</file>
+        <file>images/products.png</file>
+        <file>images/reboot.png</file>
+        <file>images/stop.png</file>
+        <file>images/stopped.png</file>
+        <file>images/tariffs.png</file>
+        <file>images/time.png</file>
+        <file>images/unknown.png</file>
+        <file>images/up.png</file>
+        <file>images/user.png</file>
+        <file>images/working.png</file>
+    </qresource>
+</RCC>
